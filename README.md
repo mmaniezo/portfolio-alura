@@ -1,2 +1,14 @@
-# portfolio-alura
-Meu primeiro portfólio feito com HTML e CSS auxiliado pela alura.
+# Portfólio
+
+
+## Ferramentas utilizadas:
+
+* HTML
+
+* CSS
+
+* Flex-box
+
+## Feito por:
+
+### Rafael Maniezo
