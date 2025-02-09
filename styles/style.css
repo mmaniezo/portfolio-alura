@@ -88,6 +88,7 @@ body{
 }
 .apresentacao__links__link:hover{
     background-color: var(--cor-hover);
+    scale: 1.1;
 }
 
 .apresentacao__imagem{
